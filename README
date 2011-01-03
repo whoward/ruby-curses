@@ -1,0 +1,10 @@
+This is a bunch of examples that show how to use the NCurses library in Ruby.
+
+I wrote these while following the tutorial for the C library:
+http://www.ibiblio.org/pub/Linux/docs/HOWTO/other-formats/pdf/NCURSES-Programming-HOWTO.pdf
+
+You'll need to install the ncurses gem (not use the system library) to run them
+gem install ncurses
+
+I may also look into the rbcurse gem later on
+https://github.com/rkumar/rbcurse
